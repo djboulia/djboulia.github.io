@@ -29,7 +29,7 @@ twitter_username: djboulia
 github_username:  djboulia
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
